@@ -52,7 +52,8 @@
   },
   "dependencies": {
     "@y/protocols": "^1.0.6-1",
-    "lib0": "^0.2.102"
+    "lib0": "^0.2.102",
+    "ws": "^8.18.3"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
